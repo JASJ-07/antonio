@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">miprimerlayout</string>
+    <string name="nombre">Nombres</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="genero">Genero</string>
+    <string name="estado_civil">Estado Civil</string>
+</resources>

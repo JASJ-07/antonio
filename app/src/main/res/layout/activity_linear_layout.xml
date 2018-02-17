@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.antonio.miprimerlayout.LinearLayoutActivity">
+
+    <TextView
+        layout_gravity="@string/bienvenido"
+        layout_height="wrap_content"
+        layout_width="wrap_content"
+        android:textColor="@color/colorPrimary"
+        android:textSize="40sp"
+        android:textStyle="bold" />
+    
+</LinearLayout>
